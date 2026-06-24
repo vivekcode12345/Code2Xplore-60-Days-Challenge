@@ -1,0 +1,31 @@
+Commit Messages for Each Challenge Folder:
+
+Day 14 Challenge/
+  Commit: "Add Day 14 Assignment 3 - Python programming challenge"
+
+Day 15 Challenge/
+  Commit: "Add Day 15 Assignment 4 - Python programming challenge"
+
+Day 16 Challenge/
+  Commit: "Add Day 16 Assignment 5 - Python programming challenge"
+
+Day 17 Challenge/
+  Commit: "Add Day 17 Assignment 6 - Python programming challenge"
+
+Day 18 Challenge/
+  Commit: "Add Day 18 Assignment 8 - Python programming challenge"
+
+Day 19 Challenge/
+  Commit: "Add Day 19 Cla2 - Python programming challenge"
+
+Day 20 Challenge/
+  Commit: "Add Day 20 code - Python programming challenge"
+
+Day 21 Challenge/
+  Commit: "Add Day 21 Conditional Problems - Python programming challenge"
+
+Day 22 Challenge/
+  Commit: "Add Day 22 List COMPREHENSION - Python programming challenge"
+
+Day 23 Challenge/
+  Commit: "Add Day 23 String Questions - Python programming challenge"
